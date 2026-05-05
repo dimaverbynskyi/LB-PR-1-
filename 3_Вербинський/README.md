@@ -146,25 +146,25 @@ WebSocket порт: 4000
 ##  **Скріншоти результатів**
 
 ### Скріншот 1: Docker контейнер запущений
-![Docker контейнер](https://github.com/itassumi/coordinate_systems/blob/4461649041545bf15658a9633020e51b7b6b6828/2/1.png)
+![Docker контейнер](3_Вербинський/1.png)
 
 ### Скріншот 2: Весь інтерфейс додатку
-![Інтерфейс додатку](https://github.com/itassumi/coordinate_systems/blob/4461649041545bf15658a9633020e51b7b6b6828/2/2.png)
+![Інтерфейс додатку](3_Вербинський/2.png)
 
 ### Скріншот 3: Графік з цілями крупним планом
-![Графік радару](https://github.com/itassumi/coordinate_systems/blob/4461649041545bf15658a9633020e51b7b6b6828/2/3.png)
+![Графік радару](3_Вербинський/3.png)
 
 ### Скріншот 4: Консоль браузера (підключення WebSocket)
-![Консоль браузера](https://github.com/itassumi/coordinate_systems/blob/4461649041545bf15658a9633020e51b7b6b6828/2/4.png)
+![Консоль браузера](3_Вербинський/4.png)
 
 ### Скріншот 5: Зміна параметрів радару
-![Зміна параметрів](https://github.com/itassumi/coordinate_systems/blob/4461649041545bf15658a9633020e51b7b6b6828/2/5.png)
+![Зміна параметрів](3_Вербинський/5.png)
 
 ### Скріншот 6: Дані WebSocket у консолі
-![Дані WebSocket](https://github.com/itassumi/coordinate_systems/blob/4461649041545bf15658a9633020e51b7b6b6828/2/6.png)
+![Дані WebSocket](3_Вербинський/6.png)
 
 ### Скріншот 7: Результат оновлення параметрів
-![Результат оновлення](https://github.com/itassumi/coordinate_systems/blob/4461649041545bf15658a9633020e51b7b6b6828/2/7.png)
+![Результат оновлення](3_Вербинський/7.png)
 
 ---
 
