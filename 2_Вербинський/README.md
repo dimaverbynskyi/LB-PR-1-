@@ -93,7 +93,7 @@ WebSocket статус: Підключено до емулятора GPS
 ![Інтерфейс додатку](2_Вербинський/app-interface.png)
 
 **2. Графік з результатами розрахунків (Canvas):**  
-![Графік з результатами розрахунків](https://raw.githubusercontent.com/itassumi/coordinate_systems/main/gps-visualizer/calculation-results.png)
+![Графік з результатами розрахунків](2_Вербинський/calculation-results.png)
 
 **3. Приклад отриманих даних:**  
 ![Приклад отриманих даних](https://raw.githubusercontent.com/itassumi/coordinate_systems/main/gps-visualizer/data-example.png)
