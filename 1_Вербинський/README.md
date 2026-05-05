@@ -10,7 +10,7 @@
 *   `CartesianPoint2D(x, y)` — класична площина (2D).
 *   `PolarPoint(radius, angle)` — полярні координати (2D).
 *   `CartesianPoint3D(x, y, z)` — декартовий простір (3D).
-*   `SphericalPoint(radius, azimuth, polarAngle)` — сферичні координати (3D).
+*   `SphericalPoint(radius, azimuth, polarAngle)` — сферичні координати (3D). 
 
 ### 2. Конвертація даних
 Для переходу між різними системами додано відповідні методи:
