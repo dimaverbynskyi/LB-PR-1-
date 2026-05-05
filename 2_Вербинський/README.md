@@ -99,4 +99,4 @@ WebSocket статус: Підключено до емулятора GPS
 ![Приклад отриманих даних](2_Вербинський/data-example.png)
 
 **4. Налаштування Docker емулятора:**  
-![Налаштування Docker емулятора](https://raw.githubusercontent.com/itassumi/coordinate_systems/main/gps-visualizer/docker-setup.png%20.png)
+![Налаштування Docker емулятора](2_Вербинський/docker-setup.png)
