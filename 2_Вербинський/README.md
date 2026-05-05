@@ -96,7 +96,7 @@ WebSocket статус: Підключено до емулятора GPS
 ![Графік з результатами розрахунків](2_Вербинський/calculation-results.png)
 
 **3. Приклад отриманих даних:**  
-![Приклад отриманих даних](https://raw.githubusercontent.com/itassumi/coordinate_systems/main/gps-visualizer/data-example.png)
+![Приклад отриманих даних](2_Вербинський/data-example.png)
 
 **4. Налаштування Docker емулятора:**  
 ![Налаштування Docker емулятора](https://raw.githubusercontent.com/itassumi/coordinate_systems/main/gps-visualizer/docker-setup.png%20.png)
