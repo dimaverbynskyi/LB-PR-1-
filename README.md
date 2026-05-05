@@ -90,7 +90,7 @@ WebSocket статус: Підключено до емулятора GPS
 ## Галерея результатів
 
 **1. Головний інтерфейс додатку:**  
-![Інтерфейс додатку](https://raw.githubusercontent.com/itassumi/coordinate_systems/main/gps-visualizer/app-interface.png)
+![Інтерфейс додатку](app-interface.png)
 
 **2. Графік з результатами розрахунків (Canvas):**  
 ![Графік з результатами розрахунків](https://raw.githubusercontent.com/itassumi/coordinate_systems/main/gps-visualizer/calculation-results.png)
