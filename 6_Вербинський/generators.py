@@ -1,0 +1,32 @@
+import math
+import random
+import matplotlib.pyplot as plt
+from shapely.geometry import Polygon
+
+def generate_polygon(num_points: int, radius: float = 10.0, irregularity: float = 0.35) -> Polygon:
+    angles = sorted([random.uniform(0, 2 * math.pi) for _ in range(num_points)])
+    points = []
+    for angle in angles:
+        r = radius * (1 - irregularity * random.random())
+        x = r * math.cos(angle)
+        y = r * math.sin(angle)
+        points.append((x, y))
+    poly = Polygon(points)
+    if not poly.is_valid:
+        return poly.buffer(0)
+    return poly
+
+def visualize_polygon(polygon: Polygon, filename: str = None):
+    x, y = polygon.exterior.xy
+    plt.figure(figsize=(6, 6))
+    plt.plot(x, y, color='blue', linewidth=2, zorder=1)
+    plt.fill(x, y, color='skyblue', alpha=0.3)
+    plt.scatter(x, y, color='red', s=20, zorder=2)
+    plt.title(f"Polygon (Vertices: {len(polygon.exterior.coords)-1})")
+    plt.grid(True, linestyle='--', alpha=0.6)
+    plt.axis('equal')
+    if filename:
+        plt.savefig(filename)
+        plt.close()
+    else:
+        plt.show()
